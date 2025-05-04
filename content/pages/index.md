@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Creche
 slug: /
 sections:
   - type: GenericSection
